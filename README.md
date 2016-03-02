@@ -1,10 +1,7 @@
 #Artist Directory App
 
 Search Directory of Artists.
-*
-*
-*
-*
+
 
 
 ## Prerequisites / Tools Used
