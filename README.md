@@ -1,6 +1,6 @@
 #Artist Directory App
 
-Created a Search Directory App of Artists.
+Developed an Artists Search Directory App 
 
 ## Accomplished
 * Developed a Single Page App using `AngularJS (v1.5.0)`
