@@ -13,6 +13,7 @@ Developed an Artists Search Directory App
 * JavaScript
 * AngularJS (v1.5.0)
 * Bootstrap (v3.3.6)
+* HTML/CSS
 
 
 ## Reference
