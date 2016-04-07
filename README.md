@@ -14,8 +14,9 @@ Developed an Artists Search Directory App
 * AngularJS (v1.5.0)
 * Bootstrap (v3.3.6)
 * HTML/CSS
-* 
+
 ## Screenshots:
+
  *[Behance Screenshots](http://)
 
 ## Reference
