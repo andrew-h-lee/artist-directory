@@ -17,7 +17,7 @@ Developed an Artists Search Directory App
 
 ## Screenshots:
 
- *[Behance Screenshots](http://)
+* [Behance Screenshots](http://)
 
 ## Reference
 
