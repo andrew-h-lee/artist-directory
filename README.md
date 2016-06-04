@@ -5,8 +5,8 @@ Developed an Artists Search Directory App
 ## Accomplished
 * Developed a Single Page App using `AngularJS (v1.5.0)`
 * Understanding of AngularJS MVC architecture 
-* Split Project into different modules and using services like `http`, `routeProvider`, and `animation`. 
-* Competent knowledge of AngularJS advanced features. For Instance,  `deep linking`, `creating routes`, and working with different `plugin modules` such as the animation module.
+* Split Project into different modules and using services like `http`, `routeProvider`, & `animation`. 
+* Competent knowledge of AngularJS advanced features. For Instance,  `deep linking`, `creating routes`, & working with different `plugin modules` such as the animation module.
 
 ## Prerequisites / Tools Used
 
