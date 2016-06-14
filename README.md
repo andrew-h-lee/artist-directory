@@ -8,6 +8,10 @@ Developed an Artists Search Directory App
 * Split Project into different modules and using services like `http`, `routeProvider`, & `animation`. 
 * Competent knowledge of AngularJS advanced features. For Instance,  `deep linking`, `creating routes`, & working with different `plugin modules` such as the animation module.
 
+## Modified
+* Background
+* Will install as a npm package (Soon)
+
 ## Prerequisites / Tools Used
 
 * JavaScript
