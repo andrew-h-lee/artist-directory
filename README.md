@@ -10,7 +10,8 @@ Developed an Artists Search Directory App
 
 ## Modified
 * Background
-* Will install as a npm package (Soon)
+* Will Install as a npm package (Coming Soon)
+* Rebuild Source Directory
 
 ## Prerequisites / Tools Used
 
